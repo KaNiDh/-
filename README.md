@@ -5,4 +5,4 @@
 Вычисляет прибыль отеля (заселённые комнаты * цена).
 Выводит информацию о количестве этажей, комнатах на последнем этаже и прибыли.
 Пример: В отеле 23 комнаты, 5 на этаж, цена 100, заселено 18 комнат. Программа выводит количество этажей и прибыль
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://imgur.com/R8M9MM8)
